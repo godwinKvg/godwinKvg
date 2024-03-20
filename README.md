@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ## 👋 &nbsp;Hey there! I'm Godwin Kvg 👋
 
 ### 👨🏻‍💻 &nbsp;About Me
-🎓 &nbsp;I'm currently studying Computer Science at ENSAH (Morroco) .\
+🎓 &nbsp;I'm currently studying Computer Science at Sorbonne University (France) .\
 ✍️ &nbsp;In my free time, I pursue Freelancing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at godwinkvg@gmail.com! I'll try to respond as soon as I can.\
